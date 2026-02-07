@@ -1,5 +1,9 @@
-console.log('Wycliff Armah'.length);
-let name = "Wycliff Armah";
+let name = "Hello";
 console.log(name.length);
-console.log(name[name.length-1]);
+console.log(typeof name);
+console.log(name[0]);
+console.log("Wycliff " + "Armah");
+
+
+
 
