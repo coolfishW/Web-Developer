@@ -1,9 +1,4 @@
-let name = "Hello";
-console.log(name.length);
-console.log(typeof name);
-console.log(name[0]);
-console.log("Wycliff " + "Armah");
-
-
-
-
+let firstName = "Wycliff";
+let lastName = "Armah";
+let userEmail = "wycliffarmag@gmail.com";
+let age = 40;
