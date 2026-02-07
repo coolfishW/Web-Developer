@@ -9,11 +9,11 @@
     height: 50px;
     animation: rotate 1000ms infinite alternate-reverse;
 }
-@keyframes rotate {
+/* @keyframes rotate {
     0%{
         transform: translateY(2px);
     }
     100%{
         transform: translateY(100px);
     }
-}
+} */

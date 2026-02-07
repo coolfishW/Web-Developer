@@ -1,4 +1,7 @@
-let firstName = "Wycliff";
-let lastName = "Armah";
-let userEmail = "wycliffarmag@gmail.com";
-let age = 40;
+let count = 1;
+
+while (count <= 20) {
+    console.log(count);
+    count = count + 1;
+}
+console.log('Count has finished running');
